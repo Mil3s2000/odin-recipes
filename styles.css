@@ -4,7 +4,7 @@ body {
 
 .Odin {font-size: 40px;}
 
-h1,h3 {
+h1,h3, .Odin {
     color: white; background-color: rgb(70, 2, 2);
 }
 
@@ -27,4 +27,8 @@ h3 {
 
 .Semo {
     width: 350px;
+}
+
+a {
+    color: rgb(70, 2, 2);
 }
