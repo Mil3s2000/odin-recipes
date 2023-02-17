@@ -1,5 +1,5 @@
 body {
-    background-color: goldenrod; font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(211, 157, 20); font-family: 'Times New Roman', Times, serif;
 }
 
 .Odin {font-size: 40px;}
@@ -12,7 +12,7 @@ h1 {
     font-size: 35px;
 }
 
-ul, ol, p {
+ul, ol, p, a {
     color: rgb(70, 2, 2); font-size: 20px;
 }
 
@@ -27,8 +27,4 @@ h3, a {
 
 .Semo {
     width: 350px;
-}
-
-a {
-    color: rgb(70, 2, 2);
 }
