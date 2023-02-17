@@ -4,6 +4,10 @@ body {
 
 .Odin {font-size: 40px;}
 
+h1,h3 {
+    color: white; background-color: rgb(70, 2, 2);
+}
+
 h1 {
     font-size: 35px;
 }
