@@ -16,7 +16,7 @@ ul, ol, p {
     color: rgb(70, 2, 2); font-size: 20px;
 }
 
-h3 {
+h3, a {
     font-size: 25px;
 }
 
