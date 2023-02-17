@@ -2,8 +2,10 @@ body {
     background-color: goldenrod; font-family: 'Times New Roman', Times, serif;
 }
 
+.Odin {font-size: 40px;}
+
 h1 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 ul, ol, p {
